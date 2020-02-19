@@ -3,7 +3,7 @@ require('firebase/auth');
 require("firebase/firestore");
 
 const config = {
-    apiKey: "AIzaSyDTT83UFR7Jvox6Sc1nDraYPvnZuI58o54",
+    apiKey: "",
     authDomain: "dankmemes-44799.firebaseapp.com",
     databaseURL: "https://dankmemes-44799.firebaseio.com",
     projectId: "dankmemes-44799",
